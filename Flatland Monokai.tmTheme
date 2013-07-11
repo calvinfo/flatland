@@ -200,19 +200,17 @@
 				<string>#FD971F</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tag name</string>
-			<key>scope</key>
-			<string>entity.name.tag</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
+    <dict>
+      <key>name</key>
+      <string>Variable Language</string>
+      <key>scope</key>
+      <string>variable.language</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FD971F</string>
+      </dict>
+    </dict>
 		<dict>
 			<key>name</key>
 			<string>Tag attribute</string>
@@ -360,7 +358,6 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>scope</key>
 			<string>constant.numeric.line-number.find-in-files - match</string>
